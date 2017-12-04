@@ -25,5 +25,6 @@ f_i:The i times result
 result:
 ![3_7](pics/canny_016.png)
 
+----------continuing------------
 
 
