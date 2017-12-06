@@ -1,11 +1,16 @@
 # my_opencv_exam
-
+##This repo is for this book<Learning OpenCV3 Computer Vision with Python 2nd Edition>
+##Environment:
+python3.5(anaconda),
+Ubuntu14.04LTS
 ## ch02
-----------------------
+
 2_1 3  result:
 ![random_gray](RandomGray.png)
--------------------
+
 ![random_gray](RandomColor.png)
+
+##ch03
 
 3_1 HPF(High boost filter)
 result:
@@ -24,6 +29,22 @@ f_i:The i times result
 3_7 canny function
 result:
 ![3_7](pics/canny_016.png)
+
+3_8 findContours
+result:
+![3_8](pics/3_8.png)
+
+
+the function of cv_threshold:
+result:
+![cv_threshold](pics/cv_threshold.png)
+
+3_9 findContours+
+result:
+![3_9](pics/3_9.png)
+(emmm this pic is not good for this exem)
+
+
 
 ----------continuing------------
 
