@@ -1,3 +1,5 @@
+#a example to find the contours
+
 import cv2
 import numpy as np
 
