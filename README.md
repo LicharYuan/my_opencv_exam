@@ -49,12 +49,15 @@ the function of cv_threshold:
 result:
 ![cv_threshold](pics/cv_threshold.png)
 ----
-3_9 findContours+
-result:
+3_9 findContours+  
+result:  
 ![3_9](pics/3_9.png)
 (emmm this pic is not good for this exem)
 ----------
 
+5_3_1 detect face using harrcascades   
+result:  
+![5_3_1](pics/detect_5_3_1.jpg)
 
 ----------continuing------------
 
